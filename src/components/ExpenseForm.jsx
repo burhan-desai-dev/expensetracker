@@ -100,5 +100,6 @@ function ExpenseForm({ onAdd, categories }) {
   );
 }
 
+
 // export default: taake dusri files (App.jsx) is component ko import kar sakein
 export default ExpenseForm;
